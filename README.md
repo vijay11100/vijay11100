@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vijay11100
-- 👀 I’m interested in Automation, Data scraping and shell scripting.
+- 👀 I’m interested in NULL
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on NULL
 - 📫 How to reach me : 
